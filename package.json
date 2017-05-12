@@ -1,0 +1,29 @@
+{
+  "name": "angular-1",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A tutorial application for AngularJS",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-angular": "^2.3.0",
+    "http-server": "^0.9.0"
+  },
+  "scripts": {
+    "start": "http-server ./app -a localhost -p 8000 -c-1",
+    "eslint": "eslint"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "circular-json": "^0.3.1",
+    "express": "^4.14.0",
+    "multer": "^1.2.1"
+  },
+  "jshintConfig": {
+    "undef": true,
+    "unused": true,
+    "globals": {
+      "MY_GLOBAL": true
+    }
+  }
+}
