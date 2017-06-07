@@ -1,0 +1,24 @@
+env:
+  browser: true
+extends: 'eslint:recommended'
+rules:
+  no-console: 0
+  angular/controller-name:
+      - 2
+      - '/[A-Z].*Controller$/'
+  angular/controller-as-vm: [2,"self"]    
+  angular/avoid-scope-typos: 2
+  angular/angularelement: 2
+  angular/definedundefined: 2
+  angular/di: [2,"array"]
+  indent: 'off'
+  init-declarations: error
+  jsx-quotes: error
+  key-spacing: 'off'
+plugins:
+  - angular
+globals:
+    angular: true
+
+settings:
+    angular: 1
