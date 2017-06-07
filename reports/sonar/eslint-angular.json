@@ -1,0 +1,5613 @@
+{
+  "project": "Sonar Web Front-End Reporters",
+  "projectPath": ".",
+  "version": "1.1.0",
+  "files": [
+    {
+      "name": "ng-scrolltotop.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/logo/clientlibs/js/ng-scrolltotop.js",
+      "nbLines": 67,
+      "nbComments": 0,
+      "nbCloc": 58,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 4,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747211
+        },
+        {
+          "line": 39,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747211
+        },
+        {
+          "line": 42,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747211
+        },
+        {
+          "line": 67,
+          "message": "The scrollToTopController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747211
+        }
+      ]
+    },
+    {
+      "name": "ng-account-cards.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-account-cards/clientlibs/js/ng-account-cards.js",
+      "nbLines": 54,
+      "nbComments": 0,
+      "nbCloc": 46,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747274
+        },
+        {
+          "line": 54,
+          "message": "The accountCardsController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747274
+        }
+      ]
+    },
+    {
+      "name": "ng-account-detail.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-account-detail/clientlibs/js/ng-account-detail.js",
+      "nbLines": 561,
+      "nbComments": 0,
+      "nbCloc": 512,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 34,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 106,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 172,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 172,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 172,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 173,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 173,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 173,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 198,
+          "message": "'i' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 201,
+          "message": "'i' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 202,
+          "message": "'d3' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 202,
+          "message": "'d3' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 204,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 204,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 204,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 204,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 220,
+          "message": "'i' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 240,
+          "message": "'oldValue' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 257,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 258,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 259,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 260,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 262,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 263,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 264,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 265,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 266,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 267,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 268,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 270,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 271,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 272,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 318,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        },
+        {
+          "line": 561,
+          "message": "The accountDetailController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747477
+        }
+      ]
+    },
+    {
+      "name": "ng-account-transactions.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-account-transactions/clientlibs/js/ng-account-transactions.js",
+      "nbLines": 916,
+      "nbComments": 0,
+      "nbCloc": 821,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 15,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 108,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 264,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 265,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 266,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 267,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 268,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 269,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 270,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 271,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 272,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 273,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 274,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 426,
+          "message": "'e' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        },
+        {
+          "line": 916,
+          "message": "The accountTransactionsController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747680
+        }
+      ]
+    },
+    {
+      "name": "ng-account-view.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-account-view/clientlibs/js/ng-account-view.js",
+      "nbLines": 913,
+      "nbComments": 0,
+      "nbCloc": 815,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 18,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 82,
+          "message": "'defaultAccountResponse' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 284,
+          "message": "'id' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 313,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 314,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 315,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 316,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 322,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 323,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 324,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 387,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 387,
+          "message": "'index' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 555,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 557,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 557,
+          "message": "'index' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 588,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 680,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        },
+        {
+          "line": 913,
+          "message": "The accountViewController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357747915
+        }
+      ]
+    },
+    {
+      "name": "ng-admin-card.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-admin-card/clientlibs/js/ng-admin-card.js",
+      "nbLines": 178,
+      "nbComments": 0,
+      "nbCloc": 161,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 3,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748180
+        },
+        {
+          "line": 78,
+          "message": "'ttl' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748180
+        },
+        {
+          "line": 178,
+          "message": "The adminCardController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748180
+        }
+      ]
+    },
+    {
+      "name": "unittest.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-admin-card/clientlibs/js/unittest.js",
+      "nbLines": 9,
+      "nbComments": 0,
+      "nbCloc": 9,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 8,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748212
+        },
+        {
+          "line": 1,
+          "message": "'describe' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748212
+        },
+        {
+          "line": 3,
+          "message": "'beforeEach' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748212
+        },
+        {
+          "line": 3,
+          "message": "'module' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748212
+        },
+        {
+          "line": 4,
+          "message": "'beforeEach' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748212
+        },
+        {
+          "line": 4,
+          "message": "'inject' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748212
+        },
+        {
+          "line": 7,
+          "message": "'it' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748212
+        },
+        {
+          "line": 8,
+          "message": "'expect' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748212
+        }
+      ]
+    },
+    {
+      "name": "ng-admin-categories.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-admin-categories/clientlibs/js/ng-admin-categories.js",
+      "nbLines": 257,
+      "nbComments": 0,
+      "nbCloc": 229,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 6,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748336
+        },
+        {
+          "line": 70,
+          "message": "'newCategories' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748336
+        },
+        {
+          "line": 139,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748336
+        },
+        {
+          "line": 194,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748336
+        },
+        {
+          "line": 221,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748336
+        },
+        {
+          "line": 257,
+          "message": "The adminCategoriesController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748336
+        }
+      ]
+    },
+    {
+      "name": "ng-admin-goal-types.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-admin-goal-types/clientlibs/js/ng-admin-goal-types.js",
+      "nbLines": 249,
+      "nbComments": 0,
+      "nbCloc": 245,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 5,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748430
+        },
+        {
+          "line": 101,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748430
+        },
+        {
+          "line": 170,
+          "message": "Unnecessary semicolon.",
+          "description": "",
+          "rulekey": "ng_no_extra_semi",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748430
+        },
+        {
+          "line": 234,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748430
+        },
+        {
+          "line": 249,
+          "message": "The adminGoalTypesController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748430
+        }
+      ]
+    },
+    {
+      "name": "ng-admin-message-types.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-admin-message-types/clientlibs/js/ng-admin-message-types.js",
+      "nbLines": 264,
+      "nbComments": 0,
+      "nbCloc": 254,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 5,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748524
+        },
+        {
+          "line": 223,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748524
+        },
+        {
+          "line": 240,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748524
+        },
+        {
+          "line": 257,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748524
+        },
+        {
+          "line": 264,
+          "message": "The adminMessageTypesController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748524
+        }
+      ]
+    },
+    {
+      "name": "ng-admin-terms-conditions.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-admin-terms-conditions/clientlibs/js/ng-admin-terms-conditions.js",
+      "nbLines": 55,
+      "nbComments": 0,
+      "nbCloc": 49,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748555
+        },
+        {
+          "line": 55,
+          "message": "The adminTermsConditionsController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748555
+        }
+      ]
+    },
+    {
+      "name": "ng-amount-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-amount-form/clientlibs/js/ng-amount-form.js",
+      "nbLines": 332,
+      "nbComments": 0,
+      "nbCloc": 304,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748695
+        },
+        {
+          "line": 332,
+          "message": "The amountFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748695
+        }
+      ]
+    },
+    {
+      "name": "ng-atm-limit-setup.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-atm-limit-setup/clientlibs/js/ng-atm-limit-setup.js",
+      "nbLines": 303,
+      "nbComments": 0,
+      "nbCloc": 303,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 5,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748804
+        },
+        {
+          "line": 94,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748804
+        },
+        {
+          "line": 104,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748804
+        },
+        {
+          "line": 169,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748804
+        },
+        {
+          "line": 303,
+          "message": "The atmLimitSetupController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748804
+        }
+      ]
+    },
+    {
+      "name": "ng-bank-defined-beneficiary.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-bank-defined-beneficiary/clientlibs/js/ng-bank-defined-beneficiary.js",
+      "nbLines": 170,
+      "nbComments": 0,
+      "nbCloc": 170,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748960
+        },
+        {
+          "line": 169,
+          "message": "The bankDefinedBeneficiaryController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357748960
+        }
+      ]
+    },
+    {
+      "name": "ng-beneficiary-bank-details.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-beneficiary-bank-details/clientlibs/js/ng-beneficiary-bank-details.js",
+      "nbLines": 282,
+      "nbComments": 0,
+      "nbCloc": 282,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 16,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 144,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 145,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 159,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 243,
+          "message": "'validate' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 249,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 250,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 251,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 252,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 253,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 254,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 255,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 256,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 270,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 271,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        },
+        {
+          "line": 282,
+          "message": "The beneficiaryBankDetailsController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749257
+        }
+      ]
+    },
+    {
+      "name": "ng-beneficiary-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-beneficiary-form/clientlibs/js/ng-beneficiary-form.js",
+      "nbLines": 675,
+      "nbComments": 0,
+      "nbCloc": 613,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 13,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 225,
+          "message": "Unsafe usage of ReturnStatement.",
+          "description": "",
+          "rulekey": "ng_no_unsafe_finally",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 332,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 372,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 373,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 374,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 375,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 376,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 377,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 378,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 538,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 583,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        },
+        {
+          "line": 675,
+          "message": "The beneficiaryFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749445
+        }
+      ]
+    },
+    {
+      "name": "ng-beneficiary-list.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-beneficiary-list/clientlibs/js/ng-beneficiary-list.js",
+      "nbLines": 279,
+      "nbComments": 0,
+      "nbCloc": 254,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 5,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749617
+        },
+        {
+          "line": 110,
+          "message": "'index' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749617
+        },
+        {
+          "line": 122,
+          "message": "'index' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749617
+        },
+        {
+          "line": 275,
+          "message": "Unsafe usage of ReturnStatement.",
+          "description": "",
+          "rulekey": "ng_no_unsafe_finally",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749617
+        },
+        {
+          "line": 279,
+          "message": "The BeneficiaryListController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749617
+        }
+      ]
+    },
+    {
+      "name": "ng-beneficiary-name.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-beneficiary-name/clientlibs/js/ng-beneficiary-name.js",
+      "nbLines": 106,
+      "nbComments": 0,
+      "nbCloc": 106,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749757
+        },
+        {
+          "line": 105,
+          "message": "The beneficiaryNameController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357749757
+        }
+      ]
+    },
+    {
+      "name": "ng-beneficiary.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-beneficiary/clientlibs/js/ng-beneficiary.js",
+      "nbLines": 456,
+      "nbComments": 0,
+      "nbCloc": 407,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 6,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750214
+        },
+        {
+          "line": 340,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750214
+        },
+        {
+          "line": 341,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750214
+        },
+        {
+          "line": 349,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750214
+        },
+        {
+          "line": 351,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750214
+        },
+        {
+          "line": 456,
+          "message": "The BeneficiaryController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750214
+        }
+      ]
+    },
+    {
+      "name": "ng-budget-detail.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-budget-detail/clientlibs/js/ng-budget-detail.js",
+      "nbLines": 462,
+      "nbComments": 0,
+      "nbCloc": 414,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 3,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750573
+        },
+        {
+          "line": 119,
+          "message": "'budget' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750573
+        },
+        {
+          "line": 462,
+          "message": "The budgetDetailController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750573
+        }
+      ]
+    },
+    {
+      "name": "ng-budget-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-budget-form/clientlibs/js/ng-budget-form.js",
+      "nbLines": 906,
+      "nbComments": 0,
+      "nbCloc": 783,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 17,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 106,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 113,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 120,
+          "message": "'e' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 121,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 157,
+          "message": "'Swiper' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 178,
+          "message": "'Swiper' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 199,
+          "message": "'Swiper' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 243,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 252,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 263,
+          "message": "'e' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 264,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 267,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 550,
+          "message": "'found' is already defined.",
+          "description": "",
+          "rulekey": "ng_no_redeclare",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 698,
+          "message": "'budget' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 791,
+          "message": "'e' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        },
+        {
+          "line": 906,
+          "message": "The budgetFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750729
+        }
+      ]
+    },
+    {
+      "name": "ng-call-me-back.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-call-me-back/clientlibs/js/ng-call-me-back.js",
+      "nbLines": 222,
+      "nbComments": 0,
+      "nbCloc": 203,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750901
+        },
+        {
+          "line": 222,
+          "message": "The callMeBackController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357750901
+        }
+      ]
+    },
+    {
+      "name": "ng-card.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-card/clientlibs/js/ng-card.js",
+      "nbLines": 211,
+      "nbComments": 0,
+      "nbCloc": 194,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357751432
+        },
+        {
+          "line": 211,
+          "message": "The timelineCardController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357751432
+        }
+      ]
+    },
+    {
+      "name": "ng-category-aggregation.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-category-aggregation/clientlibs/js/ng-category-aggregation.js",
+      "nbLines": 67,
+      "nbComments": 0,
+      "nbCloc": 59,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357751729
+        },
+        {
+          "line": 67,
+          "message": "The categoryAggregationController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357751729
+        }
+      ]
+    },
+    {
+      "name": "ng-contextual-salutation.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-contextual-salutation/clientlibs/js/ng-contextual-salutation.js",
+      "nbLines": 301,
+      "nbComments": 0,
+      "nbCloc": 262,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 5,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357751931
+        },
+        {
+          "line": 169,
+          "message": "'currentTimeFormatted' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357751931
+        },
+        {
+          "line": 185,
+          "message": "'datePattern' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357751931
+        },
+        {
+          "line": 250,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357751931
+        },
+        {
+          "line": 301,
+          "message": "The contextualSalutationController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357751931
+        }
+      ]
+    },
+    {
+      "name": "ng-data-bundles.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-data-bundles/clientlibs/js/ng-data-bundles.js",
+      "nbLines": 137,
+      "nbComments": 0,
+      "nbCloc": 137,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357751963
+        },
+        {
+          "line": 137,
+          "message": "The dataBundlesController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357751963
+        }
+      ]
+    },
+    {
+      "name": "ng-debit-order-invalidation.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-debit-order-invalidation/clientlibs/js/ng-debit-order-invalidation.js",
+      "nbLines": 376,
+      "nbComments": 0,
+      "nbCloc": 375,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 7,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752243
+        },
+        {
+          "line": 123,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752243
+        },
+        {
+          "line": 136,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752243
+        },
+        {
+          "line": 300,
+          "message": "Unsafe usage of ReturnStatement.",
+          "description": "",
+          "rulekey": "ng_no_unsafe_finally",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752243
+        },
+        {
+          "line": 346,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752243
+        },
+        {
+          "line": 361,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752243
+        },
+        {
+          "line": 376,
+          "message": "The debitOrderInvalidationController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752243
+        }
+      ]
+    },
+    {
+      "name": "ng-debit-order-reasons.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-debit-order-reasons/clientlibs/js/ng-debit-order-reasons.js",
+      "nbLines": 90,
+      "nbComments": 0,
+      "nbCloc": 80,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752432
+        },
+        {
+          "line": 90,
+          "message": "The debitOrderReasonsController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752432
+        }
+      ]
+    },
+    {
+      "name": "ng-debit-order.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-debit-order/clientlibs/js/ng-debit-order.js",
+      "nbLines": 173,
+      "nbComments": 0,
+      "nbCloc": 158,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752478
+        },
+        {
+          "line": 173,
+          "message": "The debitOrdersController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752478
+        }
+      ]
+    },
+    {
+      "name": "ng-disclaimer.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-disclaimer/clientlibs/js/ng-disclaimer.js",
+      "nbLines": 79,
+      "nbComments": 0,
+      "nbCloc": 73,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752525
+        },
+        {
+          "line": 79,
+          "message": "The disclaimerController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752525
+        }
+      ]
+    },
+    {
+      "name": "ng-electricity-meter-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-electricity-meter-form/clientlibs/js/ng-electricity-meter-form.js",
+      "nbLines": 95,
+      "nbComments": 0,
+      "nbCloc": 95,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752588
+        },
+        {
+          "line": 95,
+          "message": "The electricityMeterFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752588
+        }
+      ]
+    },
+    {
+      "name": "ng-exit-app.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-exit-app/clientlibs/js/ng-exit-app.js",
+      "nbLines": 72,
+      "nbComments": 0,
+      "nbCloc": 66,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 8,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752728
+        },
+        {
+          "line": 32,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752728
+        },
+        {
+          "line": 33,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752728
+        },
+        {
+          "line": 48,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752728
+        },
+        {
+          "line": 49,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752728
+        },
+        {
+          "line": 50,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752728
+        },
+        {
+          "line": 51,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752728
+        },
+        {
+          "line": 72,
+          "message": "The exitAppController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752728
+        }
+      ]
+    },
+    {
+      "name": "ng-expenses.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-expenses/clientlibs/js/ng-expenses.js",
+      "nbLines": 179,
+      "nbComments": 0,
+      "nbCloc": 158,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 5,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752837
+        },
+        {
+          "line": 27,
+          "message": "'AemConfigService' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752837
+        },
+        {
+          "line": 114,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752837
+        },
+        {
+          "line": 114,
+          "message": "'index' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752837
+        },
+        {
+          "line": 179,
+          "message": "The expensesController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752837
+        }
+      ]
+    },
+    {
+      "name": "ng-forex.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-forex/clientlibs/js/ng-forex.js",
+      "nbLines": 150,
+      "nbComments": 0,
+      "nbCloc": 130,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 3,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752915
+        },
+        {
+          "line": 50,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752915
+        },
+        {
+          "line": 149,
+          "message": "The forexController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752915
+        }
+      ]
+    },
+    {
+      "name": "ng-goal-detail.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-goal-detail/clientlibs/js/ng-goal-detail.js",
+      "nbLines": 378,
+      "nbComments": 0,
+      "nbCloc": 331,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 7,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752994
+        },
+        {
+          "line": 91,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752994
+        },
+        {
+          "line": 129,
+          "message": "'Swiper' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752994
+        },
+        {
+          "line": 136,
+          "message": "'className' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752994
+        },
+        {
+          "line": 154,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752994
+        },
+        {
+          "line": 356,
+          "message": "Unnecessary semicolon.",
+          "description": "",
+          "rulekey": "ng_no_extra_semi",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752994
+        },
+        {
+          "line": 378,
+          "message": "The goalDetailController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357752994
+        }
+      ]
+    },
+    {
+      "name": "ng-goal-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-goal-form/clientlibs/js/ng-goal-form.js",
+      "nbLines": 784,
+      "nbComments": 0,
+      "nbCloc": 678,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 6,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753197
+        },
+        {
+          "line": 162,
+          "message": "'Swiper' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753197
+        },
+        {
+          "line": 195,
+          "message": "'Swiper' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753197
+        },
+        {
+          "line": 217,
+          "message": "'Swiper' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753197
+        },
+        {
+          "line": 560,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753197
+        },
+        {
+          "line": 784,
+          "message": "The goalFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753197
+        }
+      ]
+    },
+    {
+      "name": "ng-goal-progress.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-goal-progress/clientlibs/js/ng-goal-progress.js",
+      "nbLines": 178,
+      "nbComments": 0,
+      "nbCloc": 157,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 6,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753353
+        },
+        {
+          "line": 112,
+          "message": "'cacheResponse' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753353
+        },
+        {
+          "line": 112,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753353
+        },
+        {
+          "line": 118,
+          "message": "'$event' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753353
+        },
+        {
+          "line": 141,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753353
+        },
+        {
+          "line": 178,
+          "message": "The goalProgressController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753353
+        }
+      ]
+    },
+    {
+      "name": "ng-header-menu.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-header-menu/clientlibs/js/ng-header-menu.js",
+      "nbLines": 98,
+      "nbComments": 0,
+      "nbCloc": 90,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 4,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753478
+        },
+        {
+          "line": 80,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753478
+        },
+        {
+          "line": 83,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753478
+        },
+        {
+          "line": 98,
+          "message": "The headerMenuController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753478
+        }
+      ]
+    },
+    {
+      "name": "ng-image.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-image/clientlibs/js/ng-image.js",
+      "nbLines": 170,
+      "nbComments": 0,
+      "nbCloc": 153,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 4,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753665
+        },
+        {
+          "line": 27,
+          "message": "'AemConfigService' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753665
+        },
+        {
+          "line": 161,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753665
+        },
+        {
+          "line": 170,
+          "message": "The imageController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753665
+        }
+      ]
+    },
+    {
+      "name": "ng-institution-add-credentials.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-institution-add-credentials/clientlibs/js/ng-institution-add-credentials.js",
+      "nbLines": 486,
+      "nbComments": 0,
+      "nbCloc": 437,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 4,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753899
+        },
+        {
+          "line": 304,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753899
+        },
+        {
+          "line": 305,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753899
+        },
+        {
+          "line": 486,
+          "message": "The institutionCredentialController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357753899
+        }
+      ]
+    },
+    {
+      "name": "ng-institution-search.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-institution-search/clientlibs/js/ng-institution-search.js",
+      "nbLines": 215,
+      "nbComments": 0,
+      "nbCloc": 192,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754039
+        },
+        {
+          "line": 215,
+          "message": "The institutionSearchController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754039
+        }
+      ]
+    },
+    {
+      "name": "ng-insurance-quote-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-insurance-quote-form/clientlibs/js/ng-insurance-quote-form.js",
+      "nbLines": 63,
+      "nbComments": 0,
+      "nbCloc": 56,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 5,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754102
+        },
+        {
+          "line": 23,
+          "message": "'$timeout' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754102
+        },
+        {
+          "line": 43,
+          "message": "There should be no space after '['.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754102
+        },
+        {
+          "line": 44,
+          "message": "There should be no space after '['.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754102
+        },
+        {
+          "line": 63,
+          "message": "The insuranceQuoteFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754102
+        }
+      ]
+    },
+    {
+      "name": "ng-investment-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-investment-form/clientlibs/js/ng-investment-form.js",
+      "nbLines": 368,
+      "nbComments": 0,
+      "nbCloc": 335,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 5,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754180
+        },
+        {
+          "line": 188,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754180
+        },
+        {
+          "line": 199,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754180
+        },
+        {
+          "line": 235,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754180
+        },
+        {
+          "line": 368,
+          "message": "The investmentFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754180
+        }
+      ]
+    },
+    {
+      "name": "ng-linked-source-of-funds.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-linked-source-of-funds/clientlibs/js/ng-linked-source-of-funds.js",
+      "nbLines": 111,
+      "nbComments": 0,
+      "nbCloc": 99,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754227
+        },
+        {
+          "line": 111,
+          "message": "The linkedSourceOfFundsController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754227
+        }
+      ]
+    },
+    {
+      "name": "locator.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-locator/clientlibs/js/locator.js",
+      "nbLines": 54,
+      "nbComments": 0,
+      "nbCloc": 49,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 6,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754258
+        },
+        {
+          "line": 37,
+          "message": "'jcf' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754258
+        },
+        {
+          "line": 40,
+          "message": "'jcf' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754258
+        },
+        {
+          "line": 44,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754258
+        },
+        {
+          "line": 47,
+          "message": "'Tc' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754258
+        },
+        {
+          "line": 54,
+          "message": "The locatorController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754258
+        }
+      ]
+    },
+    {
+      "name": "ng-log-service.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-log/clientlibs/js/ng-log-service.js",
+      "nbLines": 185,
+      "nbComments": 0,
+      "nbCloc": 172,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754289
+        },
+        {
+          "line": 22,
+          "message": "'$document' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754289
+        }
+      ]
+    },
+    {
+      "name": "ng-log.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-log/clientlibs/js/ng-log.js",
+      "nbLines": 123,
+      "nbComments": 0,
+      "nbCloc": 117,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 4,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754336
+        },
+        {
+          "line": 22,
+          "message": "'items' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754336
+        },
+        {
+          "line": 41,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754336
+        },
+        {
+          "line": 122,
+          "message": "The logComponentController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754336
+        }
+      ]
+    },
+    {
+      "name": "ng-mandate-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-mandate-form/clientlibs/js/ng-mandate-form.js",
+      "nbLines": 73,
+      "nbComments": 0,
+      "nbCloc": 63,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754383
+        },
+        {
+          "line": 73,
+          "message": "The mandateFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754383
+        }
+      ]
+    },
+    {
+      "name": "ng-modal.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-modal/clientlibs/js/ng-modal.js",
+      "nbLines": 87,
+      "nbComments": 0,
+      "nbCloc": 79,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754429
+        },
+        {
+          "line": 87,
+          "message": "The modalController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754429
+        }
+      ]
+    },
+    {
+      "name": "ng-net-worth.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-net-worth/clientlibs/js/ng-net-worth.js",
+      "nbLines": 287,
+      "nbComments": 0,
+      "nbCloc": 261,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754493
+        },
+        {
+          "line": 287,
+          "message": "The networthController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754493
+        }
+      ]
+    },
+    {
+      "name": "ng-notification-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-notification-form/clientlibs/js/ng-notification-form.js",
+      "nbLines": 132,
+      "nbComments": 0,
+      "nbCloc": 121,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 3,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754571
+        },
+        {
+          "line": 100,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754571
+        },
+        {
+          "line": 132,
+          "message": "The notificationFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754571
+        }
+      ]
+    },
+    {
+      "name": "ng-notifications.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-notifications/clientlibs/js/ng-notifications.js",
+      "nbLines": 116,
+      "nbComments": 0,
+      "nbCloc": 103,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 14,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 50,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 63,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 64,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 65,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 66,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 67,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 85,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 87,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 95,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 97,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 105,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 107,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        },
+        {
+          "line": 116,
+          "message": "The notificationsController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754602
+        }
+      ]
+    },
+    {
+      "name": "ng-once-off.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-once-off/clientlibs/js/ng-once-off.js",
+      "nbLines": 177,
+      "nbComments": 0,
+      "nbCloc": 160,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 11,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754649
+        },
+        {
+          "line": 57,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754649
+        },
+        {
+          "line": 72,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754649
+        },
+        {
+          "line": 73,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754649
+        },
+        {
+          "line": 77,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754649
+        },
+        {
+          "line": 78,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754649
+        },
+        {
+          "line": 80,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754649
+        },
+        {
+          "line": 81,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754649
+        },
+        {
+          "line": 82,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754649
+        },
+        {
+          "line": 83,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754649
+        },
+        {
+          "line": 177,
+          "message": "The onceOffController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754649
+        }
+      ]
+    },
+    {
+      "name": "ng-pay-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-pay-form/clientlibs/js/ng-pay-form.js",
+      "nbLines": 771,
+      "nbComments": 0,
+      "nbCloc": 689,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 7,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754742
+        },
+        {
+          "line": 108,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754742
+        },
+        {
+          "line": 383,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754742
+        },
+        {
+          "line": 434,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754742
+        },
+        {
+          "line": 765,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754742
+        },
+        {
+          "line": 767,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754742
+        },
+        {
+          "line": 771,
+          "message": "The payFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754742
+        }
+      ]
+    },
+    {
+      "name": "ng-pay-into-account.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-pay-into-account/clientlibs/js/ng-pay-into-account.js",
+      "nbLines": 177,
+      "nbComments": 0,
+      "nbCloc": 177,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754805
+        },
+        {
+          "line": 177,
+          "message": "The payIntoAccountController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754805
+        }
+      ]
+    },
+    {
+      "name": "ng-payment-type.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-payment-type/clientlibs/js/ng-payment-type.js",
+      "nbLines": 166,
+      "nbComments": 0,
+      "nbCloc": 152,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754867
+        },
+        {
+          "line": 166,
+          "message": "The paymentTypeController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357754867
+        }
+      ]
+    },
+    {
+      "name": "ng-pre-paid-airtime.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-pre-paid-airtime/clientlibs/js/ng-pre-paid-airtime.js",
+      "nbLines": 518,
+      "nbComments": 0,
+      "nbCloc": 474,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 5,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755086
+        },
+        {
+          "line": 231,
+          "message": "'airtimeForm' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755086
+        },
+        {
+          "line": 303,
+          "message": "'airtimeForm' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755086
+        },
+        {
+          "line": 432,
+          "message": "Unsafe usage of ReturnStatement.",
+          "description": "",
+          "rulekey": "ng_no_unsafe_finally",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755086
+        },
+        {
+          "line": 518,
+          "message": "The prePaidAirtimeController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755086
+        }
+      ]
+    },
+    {
+      "name": "ng-prefered-name-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-prefered-name-form/clientlibs/js/ng-prefered-name-form.js",
+      "nbLines": 116,
+      "nbComments": 0,
+      "nbCloc": 106,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 3,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755132
+        },
+        {
+          "line": 108,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755132
+        },
+        {
+          "line": 116,
+          "message": "The preferedNameFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755132
+        }
+      ]
+    },
+    {
+      "name": "ng-prepaid-beneficiary.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-prepaid-beneficiary/clientlibs/js/ng-prepaid-beneficiary.js",
+      "nbLines": 117,
+      "nbComments": 0,
+      "nbCloc": 117,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755179
+        },
+        {
+          "line": 117,
+          "message": "The prepaidBeneficiaryController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755179
+        }
+      ]
+    },
+    {
+      "name": "ng-prepaid-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-prepaid-form/clientlibs/js/ng-prepaid-form.js",
+      "nbLines": 787,
+      "nbComments": 0,
+      "nbCloc": 787,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 4,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755257
+        },
+        {
+          "line": 532,
+          "message": "Unsafe usage of ReturnStatement.",
+          "description": "",
+          "rulekey": "ng_no_unsafe_finally",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755257
+        },
+        {
+          "line": 680,
+          "message": "'value' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755257
+        },
+        {
+          "line": 787,
+          "message": "The prepaidFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755257
+        }
+      ]
+    },
+    {
+      "name": "ng-prepaid-types.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-prepaid-types/clientlibs/js/ng-prepaid-types.js",
+      "nbLines": 135,
+      "nbComments": 0,
+      "nbCloc": 135,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 3,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755304
+        },
+        {
+          "line": 86,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755304
+        },
+        {
+          "line": 135,
+          "message": "The prepaidTypesController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755304
+        }
+      ]
+    },
+    {
+      "name": "ng-purchase-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-purchase-form/clientlibs/js/ng-purchase-form.js",
+      "nbLines": 366,
+      "nbComments": 0,
+      "nbCloc": 336,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 4,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755366
+        },
+        {
+          "line": 198,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755366
+        },
+        {
+          "line": 234,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755366
+        },
+        {
+          "line": 366,
+          "message": "The purchaseFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755366
+        }
+      ]
+    },
+    {
+      "name": "ng-quicklink.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-quicklink/clientlibs/js/ng-quicklink.js",
+      "nbLines": 99,
+      "nbComments": 0,
+      "nbCloc": 88,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755460
+        },
+        {
+          "line": 99,
+          "message": "The quickLinkController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755460
+        }
+      ]
+    },
+    {
+      "name": "ng-quicklinks.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-quicklinks/clientlibs/js/ng-quicklinks.js",
+      "nbLines": 52,
+      "nbComments": 0,
+      "nbCloc": 45,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 7,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755616
+        },
+        {
+          "line": 24,
+          "message": "'AemConfigService' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755616
+        },
+        {
+          "line": 46,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755616
+        },
+        {
+          "line": 47,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755616
+        },
+        {
+          "line": 48,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755616
+        },
+        {
+          "line": 49,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755616
+        },
+        {
+          "line": 52,
+          "message": "The quickLinksController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755616
+        }
+      ]
+    },
+    {
+      "name": "ng-recycle-bin.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-recycle-bin/clientlibs/js/ng-recycle-bin.js",
+      "nbLines": 250,
+      "nbComments": 0,
+      "nbCloc": 218,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 6,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755772
+        },
+        {
+          "line": 25,
+          "message": "'UtilService' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755772
+        },
+        {
+          "line": 151,
+          "message": "'cacheResponse' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755772
+        },
+        {
+          "line": 178,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755772
+        },
+        {
+          "line": 238,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755772
+        },
+        {
+          "line": 250,
+          "message": "The recycleBinController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755772
+        }
+      ]
+    },
+    {
+      "name": "ng-softdelete-service.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-recycle-bin/clientlibs/js/ng-softdelete-service.js",
+      "nbLines": 176,
+      "nbComments": 0,
+      "nbCloc": 170,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 1,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755850
+        }
+      ]
+    },
+    {
+      "name": "ng-redirect-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-redirect-form/clientlibs/js/ng-redirect-form.js",
+      "nbLines": 68,
+      "nbComments": 0,
+      "nbCloc": 68,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755897
+        },
+        {
+          "line": 68,
+          "message": "The redirectFormComponentController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357755897
+        }
+      ]
+    },
+    {
+      "name": "ng-reference-details.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-reference-details/clientlibs/js/ng-reference-details.js",
+      "nbLines": 132,
+      "nbComments": 0,
+      "nbCloc": 132,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756023
+        },
+        {
+          "line": 132,
+          "message": "The referenceDetailsController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756023
+        }
+      ]
+    },
+    {
+      "name": "ng-search-bank.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-search-bank/clientlibs/js/ng-search-bank.js",
+      "nbLines": 179,
+      "nbComments": 0,
+      "nbCloc": 178,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 9,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756085
+        },
+        {
+          "line": 52,
+          "message": "'editAction' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756085
+        },
+        {
+          "line": 87,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756085
+        },
+        {
+          "line": 148,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756085
+        },
+        {
+          "line": 149,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756085
+        },
+        {
+          "line": 150,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756085
+        },
+        {
+          "line": 151,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756085
+        },
+        {
+          "line": 169,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756085
+        },
+        {
+          "line": 179,
+          "message": "The SearchBankController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756085
+        }
+      ]
+    },
+    {
+      "name": "ng-select-account.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-select-account/clientlibs/js/ng-select-account.js",
+      "nbLines": 106,
+      "nbComments": 0,
+      "nbCloc": 106,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756116
+        },
+        {
+          "line": 106,
+          "message": "The selectAccountController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756116
+        }
+      ]
+    },
+    {
+      "name": "ng-select-branch.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-select-branch/clientlibs/js/ng-select-branch.js",
+      "nbLines": 80,
+      "nbComments": 0,
+      "nbCloc": 80,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756163
+        },
+        {
+          "line": 80,
+          "message": "The SelectBranchController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756163
+        }
+      ]
+    },
+    {
+      "name": "ng-select-invest-type.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-select-invest-type/clientlibs/js/ng-select-invest-type.js",
+      "nbLines": 93,
+      "nbComments": 0,
+      "nbCloc": 93,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756194
+        },
+        {
+          "line": 93,
+          "message": "The selectInvestTypeController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756194
+        }
+      ]
+    },
+    {
+      "name": "ng-service-providers.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-service-providers/clientlibs/js/ng-service-providers.js",
+      "nbLines": 124,
+      "nbComments": 0,
+      "nbCloc": 123,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756241
+        },
+        {
+          "line": 124,
+          "message": "The serviceProvidersController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756241
+        }
+      ]
+    },
+    {
+      "name": "ng-source-of-funds.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-source-of-funds/clientlibs/js/ng-source-of-funds.js",
+      "nbLines": 148,
+      "nbComments": 0,
+      "nbCloc": 135,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756272
+        },
+        {
+          "line": 148,
+          "message": "The sourceOfFundsController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756272
+        }
+      ]
+    },
+    {
+      "name": "ng-spinner.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-spinner/clientlibs/js/ng-spinner.js",
+      "nbLines": 69,
+      "nbComments": 0,
+      "nbCloc": 69,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756303
+        },
+        {
+          "line": 68,
+          "message": "The spinnerController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756303
+        }
+      ]
+    },
+    {
+      "name": "ng-sub-payment-type.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-sub-payment-type/clientlibs/js/ng-sub-payment-type.js",
+      "nbLines": 156,
+      "nbComments": 0,
+      "nbCloc": 143,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756335
+        },
+        {
+          "line": 156,
+          "message": "The subPaymentTypeController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756335
+        }
+      ]
+    },
+    {
+      "name": "ng-talk-to-us.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-talk-to-us/clientlibs/js/ng-talk-to-us.js",
+      "nbLines": 118,
+      "nbComments": 0,
+      "nbCloc": 108,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 5,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756397
+        },
+        {
+          "line": 79,
+          "message": "'valid' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756397
+        },
+        {
+          "line": 82,
+          "message": "'talkToUsForm' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756397
+        },
+        {
+          "line": 108,
+          "message": "'e' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756397
+        },
+        {
+          "line": 118,
+          "message": "The talkToUsController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756397
+        }
+      ]
+    },
+    {
+      "name": "ng-terms-and-conditions.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-terms-and-conditions/clientlibs/js/ng-terms-and-conditions.js",
+      "nbLines": 145,
+      "nbComments": 0,
+      "nbCloc": 130,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 13,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 68,
+          "message": "'index' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 71,
+          "message": "'pako' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 79,
+          "message": "'xmlToJSON' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 86,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 102,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 103,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 104,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 106,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 107,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 108,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 109,
+          "message": "Mixed spaces and tabs.",
+          "description": "",
+          "rulekey": "ng_no_mixed_spaces_and_tabs",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        },
+        {
+          "line": 145,
+          "message": "The termsAndConditionsController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756428
+        }
+      ]
+    },
+    {
+      "name": "ng-timeline.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-timeline/clientlibs/js/ng-timeline.js",
+      "nbLines": 436,
+      "nbComments": 0,
+      "nbCloc": 393,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 6,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756491
+        },
+        {
+          "line": 11,
+          "message": "There should be no space after '['.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756491
+        },
+        {
+          "line": 11,
+          "message": "There should be no space before ']'.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756491
+        },
+        {
+          "line": 436,
+          "message": "The timelineController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756491
+        },
+        {
+          "line": 436,
+          "message": "There should be no space after '['.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756491
+        },
+        {
+          "line": 436,
+          "message": "There should be no space before ']'.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756491
+        }
+      ]
+    },
+    {
+      "name": "ng-toast-message.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-toast-message/clientlibs/js/ng-toast-message.js",
+      "nbLines": 181,
+      "nbComments": 0,
+      "nbCloc": 161,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756522
+        },
+        {
+          "line": 181,
+          "message": "The ToastMessageController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756522
+        }
+      ]
+    },
+    {
+      "name": "ng-top-navigation.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-top-navigation/clientlibs/js/ng-top-navigation.js",
+      "nbLines": 216,
+      "nbComments": 0,
+      "nbCloc": 189,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 3,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756569
+        },
+        {
+          "line": 75,
+          "message": "'AemConfigService' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756569
+        },
+        {
+          "line": 216,
+          "message": "The topNavigationController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756569
+        }
+      ]
+    },
+    {
+      "name": "ng-track-expenses.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-track-expenses/clientlibs/js/ng-track-expenses.js",
+      "nbLines": 476,
+      "nbComments": 0,
+      "nbCloc": 415,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 11,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756647
+        },
+        {
+          "line": 39,
+          "message": "'budgetGroups' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756647
+        },
+        {
+          "line": 100,
+          "message": "'userPreferencesResponse' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756647
+        },
+        {
+          "line": 156,
+          "message": "'div' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756647
+        },
+        {
+          "line": 258,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756647
+        },
+        {
+          "line": 258,
+          "message": "'index' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756647
+        },
+        {
+          "line": 318,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756647
+        },
+        {
+          "line": 374,
+          "message": "'expenses' is assigned a value but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756647
+        },
+        {
+          "line": 451,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756647
+        },
+        {
+          "line": 455,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756647
+        },
+        {
+          "line": 476,
+          "message": "The trackExpensesController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756647
+        }
+      ]
+    },
+    {
+      "name": "ng-transfer-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-transfer-form/clientlibs/js/ng-transfer-form.js",
+      "nbLines": 560,
+      "nbComments": 0,
+      "nbCloc": 511,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 4,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756740
+        },
+        {
+          "line": 242,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756740
+        },
+        {
+          "line": 269,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756740
+        },
+        {
+          "line": 560,
+          "message": "The transferFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756740
+        }
+      ]
+    },
+    {
+      "name": "ng-transfer-frequency-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-transfer-frequency-form/clientlibs/js/ng-transfer-frequency-form.js",
+      "nbLines": 436,
+      "nbComments": 0,
+      "nbCloc": 427,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 8,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756803
+        },
+        {
+          "line": 148,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756803
+        },
+        {
+          "line": 203,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756803
+        },
+        {
+          "line": 244,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756803
+        },
+        {
+          "line": 285,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756803
+        },
+        {
+          "line": 286,
+          "message": "'moment' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756803
+        },
+        {
+          "line": 413,
+          "message": "'response' is defined but never used.",
+          "description": "",
+          "rulekey": "ng_no_unused_vars",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756803
+        },
+        {
+          "line": 435,
+          "message": "The transferFrequencyFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756803
+        }
+      ]
+    },
+    {
+      "name": "ng-transfer-funds-form.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-transfer-funds-form/clientlibs/js/ng-transfer-funds-form.js",
+      "nbLines": 529,
+      "nbComments": 0,
+      "nbCloc": 519,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 5,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756881
+        },
+        {
+          "line": 295,
+          "message": "'Swiper' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756881
+        },
+        {
+          "line": 356,
+          "message": "'Swiper' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756881
+        },
+        {
+          "line": 396,
+          "message": "'Swiper' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756881
+        },
+        {
+          "line": 529,
+          "message": "The transferFundsFormController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756881
+        }
+      ]
+    },
+    {
+      "name": "ng-unit-trust-investment.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-unit-trust-investment/clientlibs/js/ng-unit-trust-investment.js",
+      "nbLines": 53,
+      "nbComments": 0,
+      "nbCloc": 47,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 2,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756990
+        },
+        {
+          "line": 53,
+          "message": "The unitTrustInvestmentController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357756990
+        }
+      ]
+    },
+    {
+      "name": "ng-walkthrough.js",
+      "path": "main/app/src/main/content/jcr_root/apps/nedbank-scp-core/components/content/sightly/mobile/ng-walkthrough/clientlibs/js/ng-walkthrough.js",
+      "nbLines": 202,
+      "nbComments": 0,
+      "nbCloc": 188,
+      "violations": {
+        "blocker": 0,
+        "critical": 0,
+        "major": 25,
+        "minor": 0,
+        "info": 0
+      },
+      "issues": [
+        {
+          "line": 1,
+          "message": "Definition for rule 'angular/avoid-scope-typos' was not found",
+          "description": "",
+          "rulekey": "ng_avoid_scope_typos",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 62,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 71,
+          "message": "There should be no space after '['.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 71,
+          "message": "There should be no space before ']'.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 79,
+          "message": "There should be no space after '['.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 79,
+          "message": "There should be no space before ']'.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 83,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 89,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 96,
+          "message": "There should be no space after '['.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 96,
+          "message": "There should be no space before ']'.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 104,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 105,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 109,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 115,
+          "message": "There should be no space after '['.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 115,
+          "message": "There should be no space before ']'.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 119,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 123,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 129,
+          "message": "There should be no space after '['.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 129,
+          "message": "There should be no space before ']'.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 142,
+          "message": "There should be no space after '['.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 146,
+          "message": "'$' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 154,
+          "message": "'nzTour' is not defined.",
+          "description": "",
+          "rulekey": "ng_no_undef",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 202,
+          "message": "The walkthroughController controller should be prefixed by My",
+          "description": "",
+          "rulekey": "ng_controller_name",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 202,
+          "message": "There should be no space after '['.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        },
+        {
+          "line": 202,
+          "message": "There should be no space before ']'.",
+          "description": "",
+          "rulekey": "ng_array_bracket_spacing",
+          "severity": "major",
+          "reporter": "eslintangular",
+          "creationDate": 1493357757130
+        }
+      ]
+    }
+  ],
+  "nbFiles": 87,
+  "nbLines": 21968,
+  "nbCloc": 20187,
+  "nbComments": 0,
+  "violations": {
+    "blocker": 0,
+    "critical": 0,
+    "major": 467,
+    "minor": 0,
+    "info": 0
+  }
+}

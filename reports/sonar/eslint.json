@@ -1,0 +1,17 @@
+{
+  "project": "Sonar Web Front-End Reporters",
+  "projectPath": "D:/scp_code_11042017/main/app/src/main/content/jcr_root/apps/nedbank-scp-core",
+  "version": "1.1.0",
+  "files": [],
+  "nbFiles": 0,
+  "nbLines": 0,
+  "nbCloc": 0,
+  "nbComments": 0,
+  "violations": {
+    "blocker": 0,
+    "critical": 0,
+    "major": 0,
+    "minor": 0,
+    "info": 0
+  }
+}
